@@ -1,0 +1,48 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    font-weight: 400;
+    line-height: 24px;
+    color: #15172a;
+    background-color: #14182a;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+.top{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    background-color: #1b2039;
+    height: 40px;
+    font-family: "Comic Sans MS";
+}
+h2{
+    color: #3bc8e7;
+}
+.center{
+    text-align: center;
+}
+.top1 li {
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    transform: translateY(5px);
+}
+.topr{
+    float: right;
+}
+.topa,.topl{
+    color: #3bc8e7;
+}
+.singer{
+    color: white;
+}
+.lyric{
+    color: white;
+}
